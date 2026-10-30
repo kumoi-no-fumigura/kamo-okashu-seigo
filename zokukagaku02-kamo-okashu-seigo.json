@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kamo-okashu-seigo",
  "yomi": "かもおうかしゅうはんぽんせいご",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "正誤表",
+  "era": "文化5年（1808）6月",
+  "author": "村田春海（1746〜1811）",
+  "desc": "板本『賀茂翁家集』の初刷りには校正が終わらないまま出回った誤りがあったため、その本を持つ人のために丁・行ごとに誤りを正したもの。"
+ },
  "editions": [
   {
    "pid": "993380",
